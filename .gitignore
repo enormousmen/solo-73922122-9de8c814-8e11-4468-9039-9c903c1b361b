@@ -1,4 +1,6 @@
 state/
+examples/runtime/proc/*
+!examples/runtime/proc/.gitkeep
 __pycache__/
 *.pyc
 .pytest_cache/
